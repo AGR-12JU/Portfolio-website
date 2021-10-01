@@ -1,0 +1,60 @@
+body{
+  background-color:  #CEE5D0;
+  text-align: center;
+  font-family: "Merriweather",sans-serif;
+
+}
+.top-container{
+
+
+position: relative;
+
+  padding-top: 100px;
+
+}
+h1{
+  font-size: 5.625rem;
+  margin-top: 50px;
+  font-family: "Sacramento",cursive;
+
+}
+.sh{
+  font-size: 2.5rem;
+}
+
+
+h2{
+  font-family: "Monserrat",sans-serif;
+}
+h3{
+  font-family: "Monserrat",sans-serif;
+}
+.Aruj{
+
+  height:120;
+  width: 100px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.monitor{
+  height: 120px;
+  width: 120px;
+}
+.manager{
+  height: 120px;
+  width: 120px;
+}
+
+
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 300;
+  bottom: 300;
+
+}
